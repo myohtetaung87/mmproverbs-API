@@ -7,7 +7,7 @@
     ],
     "latitude": 22,
     "longitude": 96,
-    "new": false
+    "newshop": false
   },
   {
     "name": "ကိုဆယ္သန္းဆိုင္္",
@@ -18,7 +18,7 @@
     ],
     "latitude": 22,
     "longitude": 96,
-    "new": false
+    "newshop": false
   },
   {
     "name": "Thai Express",
@@ -29,7 +29,7 @@
     ],
     "latitude": 22,
     "longitude": 96,
-    "new": false
+    "newshop": false
   },
   {
     "name": "မင္းလမ္းမုန္႔တီ",
@@ -40,7 +40,7 @@
     ],
     "latitude": 22,
     "longitude": 96,
-    "new": false
+    "newshop": false
   },
   {
     "name": "Manhattan Fish Market",
@@ -50,6 +50,6 @@
     ],
     "latitude": 22,
     "longitude": 96,
-    "new": true
+    "newshop": true
   }
 ]
