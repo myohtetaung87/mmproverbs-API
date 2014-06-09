@@ -39,17 +39,17 @@
       "င႐ုပ္သီးငါးပိေဖ်ာ္"
     ],
     "latitude": 22,
-    "longitude": 96
+    "longitude": 96,
     "new": false
   },
   {
     "name": "Manhattan Fish Market",
     "address": "ကမ္းနားလမ္း",
     "feature_food": [
-	    "Brownie"
+			"Brownie"
     ],
     "latitude": 22,
-    "longitude": 96
+    "longitude": 96,
     "new": true
   }
 ]
