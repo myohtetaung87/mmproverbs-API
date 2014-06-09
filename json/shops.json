@@ -32,7 +32,7 @@
     "new": false
   },
   {
-    "name": "မင္းလမ္း",
+    "name": "မင္းလမ္းမုန္႔တီ",
     "address": "တရုတ္တန္း လမ္းမေပၚ",
     "feature_food": [
       " ေရခ်ိဳပုဇြန္မီးဖုတ္သုပ္ ",
@@ -40,17 +40,16 @@
     ],
     "latitude": 22,
     "longitude": 96
-    "new": false;
+    "new": false
   },
   {
-    "name": "မင္းလမ္းမုန္႔တီာ္",
-    "address": "တရုတ္တန္း လမ္းမေပၚ",
+    "name": "Manhattan Fish Market",
+    "address": "ကမ္းနားလမ္း",
     "feature_food": [
-      " ေရခ်ိဳပုဇြန္မီးဖုတ္သုပ္း ",
-      "ငရုပ္သီးငါးပိေဖ်ာ္"
+	    "Brownie"
     ],
     "latitude": 22,
     "longitude": 96
-    "new": false
+    "new": true
   }
 ]
