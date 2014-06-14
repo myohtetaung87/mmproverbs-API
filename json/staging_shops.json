@@ -1,0 +1,111 @@
+[
+  {
+    "name": "ကိုကိုညီညီ ထမင္းေၾကာ္",
+    "address": "တ႐ုတ္တန္း လမ္းမေပၚ",
+    "feature_food": [
+      "ဝက္သားေၾကာ္နဲ႔ ခ်ဥ္ေပါင္ေၾကာ္"
+    ],
+    "locations": [
+      {
+        "branch": "China Town",
+        "lat": 16.774745,
+        "long": 96.150649
+      }
+    ],
+    "newshop": false
+  },
+  {
+    "name": "ကိုဆယ္သန္းဆိုင္္",
+    "address": "၁၆ လမ္းထိပ္ အေနာ္ရထာလမ္းေပၚ",
+    "feature_food": [
+      "ဝက္သားလံုးယိုးဒယားဟင္းခ်ိဳ",
+      "စိုးျမင့္ေၾကာ္"
+    ],
+    "locations": [
+      {
+        "branch": "China Town",
+        "lat": 16.777277,
+        "long": 96.147162
+      }
+    ],
+    "newshop": false
+  },
+  {
+    "name": "Thai Express",
+    "address": "Junction Square ",
+    "feature_food": [
+      "ဝက္လယ္သမားဟင္း",
+      "သေဘၤာသီးေထာင္းေၾကာ္"
+    ],
+    "locations": [
+      {
+        "branch": "China Town",
+        "lat": 16.817197,
+        "long": 96.131208
+      }
+    ],
+    "newshop": false
+  },
+  {
+    "name": "မင္းလမ္းမုန္႔တီ",
+    "address": "တရုတ္တန္း လမ္းမေပၚ",
+    "feature_food": [
+      " ေရခ်ိဳပုဇြန္မီးဖုတ္သုပ္ ",
+      "င႐ုပ္သီးငါးပိေဖ်ာ္"
+    ],
+    "locations": [
+      {
+        "branch": "Myay Ni Gone",
+        "lat": 16.800337,
+        "long": 96.130111
+      },
+      {
+        "branch": "Parami Road",
+        "lat": 16.769302,
+        "long": 96.164891
+      }
+    ],
+    "newshop": false
+  },
+  {
+    "name": "Manhattan Fish Market",
+    "address": "ကမ္းနားလမ္း",
+    "feature_food": [
+      "Brownie"
+    ],
+    "latitude": 16.769302,
+    "longitude": 96.164891,
+    "newshop": true
+  },
+  {
+    "name": "Coffee Circle",
+    "address": "ကမ္းနားလမ္း",
+    "feature_food": [
+      "Green Curry Seafood Spaghetti"
+    ],
+    "locations": [
+      {
+        "branch": "China Town",
+        "lat": 16.805848,
+        "long": 96.143771
+      }
+    ],
+    "newshop": false
+  },
+  {
+    "name": "369",
+    "address": "အလံုသခင္ျမပန္းျခံ",
+    "feature_food": [
+      "ျပည္လံုးခ်မ္းသာ",
+      "ဝက္နံ႐ိုးေၾကာ္"
+    ],
+    "locations": [
+      {
+        "branch": "China Town",
+        "lat": 16.779732,
+        "long": 96.135757
+      }
+    ],
+    "newshop": false
+  }
+]
