@@ -9,7 +9,7 @@
       {
         "branch": "China Town",
         "lat": 16.774745,
-        "long": 96.150649
+        "lng": 96.150649
       }
     ],
     "newshop": false
@@ -25,7 +25,7 @@
       {
         "branch": "China Town",
         "lat": 16.777277,
-        "long": 96.147162
+        "lng": 96.147162
       }
     ],
     "newshop": false
@@ -41,7 +41,7 @@
       {
         "branch": "China Town",
         "lat": 16.817197,
-        "long": 96.131208
+        "lng": 96.131208
       }
     ],
     "newshop": false
@@ -57,12 +57,12 @@
       {
         "branch": "Myay Ni Gone",
         "lat": 16.800337,
-        "long": 96.130111
+        "lng": 96.130111
       },
       {
         "branch": "Parami Road",
         "lat": 16.769302,
-        "long": 96.164891
+        "lng": 96.164891
       }
     ],
     "newshop": false
@@ -87,7 +87,7 @@
       {
         "branch": "China Town",
         "lat": 16.805848,
-        "long": 96.143771
+        "lng": 96.143771
       }
     ],
     "newshop": false
@@ -103,7 +103,7 @@
       {
         "branch": "China Town",
         "lat": 16.779732,
-        "long": 96.135757
+        "lng": 96.135757
       }
     ],
     "newshop": false
