@@ -19,11 +19,11 @@
     "address": "၁၆ လမ္းထိပ္ အေနာ္ရထာလမ္းေပၚ",
     "feature_food": [
       "ဝက္သားလံုးယိုးဒယားဟင္းခ်ိဳ",
-      "စိုးျမင့္ေၾကာ္"
+      "စိုးျမင့္ေၾကာ္"
     ],
     "locations": [
       {
-        "branch": "China Town",
+        "branch": "၁၆ လမ္းထိပ္ အေနာ္ရထာလမ္းေပၚ",
         "lat": 16.777277,
         "lng": 96.147162
       }
@@ -39,7 +39,7 @@
     ],
     "locations": [
       {
-        "branch": "China Town",
+        "branch": "Junction Square ",
         "lat": 16.817197,
         "lng": 96.131208
       }
@@ -48,7 +48,7 @@
   },
   {
     "name": "မင္းလမ္းမုန္႔တီ",
-    "address": "တရုတ္တန္း လမ္းမေပၚ",
+    "address": "ေျမနီကုန္း / ပါရမီလမ္း ",
     "feature_food": [
       " ေရခ်ိဳပုဇြန္မီးဖုတ္သုပ္ ",
       "င႐ုပ္သီးငါးပိေဖ်ာ္"
@@ -73,19 +73,24 @@
     "feature_food": [
       "Brownie"
     ],
-    "latitude": 16.769302,
-    "longitude": 96.164891,
+    "locations": [
+      {
+        "branch": "ကမ္းနားလမ္း",
+        "lat": 16.769302,
+        "lng": 96.164891
+      }
+    ],
     "newshop": true
   },
   {
     "name": "Coffee Circle",
-    "address": "ကမ္းနားလမ္း",
+    "address": "ဓမၼေစတီလမ္း",
     "feature_food": [
       "Green Curry Seafood Spaghetti"
     ],
     "locations": [
       {
-        "branch": "China Town",
+        "branch": "ဓမၼေစတီလမ္း",
         "lat": 16.805848,
         "lng": 96.143771
       }
@@ -101,7 +106,7 @@
     ],
     "locations": [
       {
-        "branch": "China Town",
+        "branch": "အလံုသခင္ျမပန္းျ",
         "lat": 16.779732,
         "lng": 96.135757
       }
