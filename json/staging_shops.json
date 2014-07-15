@@ -1,12 +1,12 @@
-[  
-  {  
+[
+  {
     "name":"ကိုကိုညီညီ ထမင္းေၾကာ္",
     "address":"တ႐ုတ္တန္း လမ္းမေပၚ",
-    "feature_food":[  
+    "feature_food":[
       "ဝက္သားေၾကာ္နဲ႔ ခ်ဥ္ေပါင္ေၾကာ္"
     ],
-    "locations":[  
-      {  
+    "locations":[
+      {
         "branch":"China Town",
         "lat":16.774745,
         "lng":96.150649
@@ -14,15 +14,15 @@
     ],
     "newshop":false
   },
-  {  
+  {
     "name":"ကိုဆယ္သန္းဆိုင္္",
     "address":"၁၆ လမ္းထိပ္ အေနာ္ရထာလမ္းေပၚ",
-    "feature_food":[  
+    "feature_food":[
       "ဝက္သားလံုးယိုးဒယားဟင္းခ်ိဳ",
       "စိုးျမင့္ေၾကာ္"
     ],
-    "locations":[  
-      {  
+    "locations":[
+      {
         "branch":"၁၆ လမ္းထိပ္ အေနာ္ရထာလမ္းေပၚ",
         "lat":16.777277,
         "lng":96.147162
@@ -30,15 +30,15 @@
     ],
     "newshop":false
   },
-  {  
+  {
     "name":"Thai Express",
     "address":"Junction Square ",
-    "feature_food":[  
+    "feature_food":[
       "ဝက္လယ္သမားဟင္း",
       "သေဘၤာသီးေထာင္းေၾကာ္"
     ],
-    "locations":[  
-      {  
+    "locations":[
+      {
         "branch":"Junction Square ",
         "lat":16.817197,
         "lng":96.131208
@@ -46,20 +46,20 @@
     ],
     "newshop":false
   },
-  {  
+  {
     "name":"မင္းလမ္းမုန္႔တီ",
     "address":"ေျမနီကုန္း / ပါရမီလမ္း ",
-    "feature_food":[  
+    "feature_food":[
       " ေရခ်ိဳပုဇြန္မီးဖုတ္သုပ္ ",
       "င႐ုပ္သီးငါးပိေဖ်ာ္"
     ],
-    "locations":[  
-      {  
+    "locations":[
+      {
         "branch":"Myay Ni Gone",
         "lat":16.800337,
         "lng":96.130111
       },
-      {  
+      {
         "branch":"Parami Road",
         "lat":16.769302,
         "lng":96.164891
@@ -67,14 +67,14 @@
     ],
     "newshop":false
   },
-  {  
+  {
     "name":"Manhattan Fish Market",
     "address":"ကမ္းနားလမ္း",
-    "feature_food":[  
+    "feature_food":[
       "Brownie"
     ],
-    "locations":[  
-      {  
+    "locations":[
+      {
         "branch":"ကမ္းနားလမ္း",
         "lat":16.769302,
         "lng":96.164891
@@ -82,14 +82,14 @@
     ],
     "newshop":true
   },
-  {  
+  {
     "name":"Coffee Circle",
     "address":"ဓမၼေစတီလမ္း",
-    "feature_food":[  
+    "feature_food":[
       "Green Curry Seafood Spaghetti"
     ],
-    "locations":[  
-      {  
+    "locations":[
+      {
         "branch":"ဓမၼေစတီလမ္း",
         "lat":16.805848,
         "lng":96.143771
@@ -97,15 +97,15 @@
     ],
     "newshop":false
   },
-  {  
+  {
     "name":"369",
     "address":"အလံုသခင္ျမပန္းျခံ",
-    "feature_food":[  
+    "feature_food":[
       "ျပည္လံုးခ်မ္းသာ",
       "ဝက္နံ႐ိုးေၾကာ္"
     ],
-    "locations":[  
-      {  
+    "locations":[
+      {
         "branch":"အလံုသခင္ျမပန္းျ",
         "lat":16.779732,
         "lng":96.135757
@@ -113,16 +113,16 @@
     ],
     "newshop":false
   },
-  {  
+  {
     "name":"လမ္း၂၀ ဆန္ျပဳတ္",
     "address":"လမ္း၂၀ ",
-    "feature_food":[  
+    "feature_food":[
       "ဆန္ျပဳတ္",
       "ဘဲေျခသုပ္",
       "အသဲျမစ္သုပ္"
     ],
-    "locations":[  
-      {  
+    "locations":[
+      {
         "branch":"လမ္း၂၀ ",
         "lat":16.774903,
         "lng":96.149911
@@ -130,15 +130,15 @@
     ],
     "newshop":false
   },
-  {  
+  {
     "name":"Shake",
     "address":"စံျပ႐ုပ္ရွင္႐ုံအေရွ႕ အေနာ္ရထာလမ္းမေပၚ",
-    "feature_food":[  
+    "feature_food":[
       "လက္ဖက္ၾကက္ဥ",
       "ေကာ္ရည္"
     ],
-    "locations":[  
-      {  
+    "locations":[
+      {
         "branch":"စံျပ႐ုပ္ရွင္႐ုံအေရွ႕ အေနာ္ရထာလမ္းမေပၚ",
         "lat":16.777362,
         "lng":96.144757
@@ -146,19 +146,19 @@
     ],
     "newshop":false
   },
-  {  
+  {
     "name":"Swenen",
     "address":"ဒဂံုစင္တာ / Junction Maw Tin",
-    "feature_food":[  
+    "feature_food":[
       "Strawberry Ice-cream"
     ],
-    "locations":[  
-      {  
+    "locations":[
+      {
         "branch":"ဒဂံုစင္တာ",
         "lat":16.804431,
         "lng":96.137409
       },
-      {  
+      {
         "branch":"Junction Maw Tin",
         "lat":16.777684,
         "lng":96.137409
@@ -166,177 +166,4 @@
     ],
     "newshop":true
   }
-]
-
-#1July 15th 2014, 11:09:26 am
-VALID
-Formatted JSON Data
-[  
-   {  
-      "name":"ကိုကိုညီညီ ထမင္းေၾကာ္",
-      "address":"တ႐ုတ္တန္း လမ္းမေပၚ",
-      "feature_food":[  
-         "ဝက္သားေၾကာ္နဲ႔ ခ်ဥ္ေပါင္ေၾကာ္"
-      ],
-      "locations":[  
-         {  
-            "branch":"China Town",
-            "lat":16.774745,
-            "lng":96.150649
-         }
-      ],
-      "newshop":false
-   },
-   {  
-      "name":"ကိုဆယ္သန္းဆိုင္္",
-      "address":"၁၆ လမ္းထိပ္ အေနာ္ရထာလမ္းေပၚ",
-      "feature_food":[  
-         "ဝက္သားလံုးယိုးဒယားဟင္းခ်ိဳ",
-         "စိုးျမင့္ေၾကာ္"
-      ],
-      "locations":[  
-         {  
-            "branch":"၁၆ လမ္းထိပ္ အေနာ္ရထာလမ္းေပၚ",
-            "lat":16.777277,
-            "lng":96.147162
-         }
-      ],
-      "newshop":false
-   },
-   {  
-      "name":"Thai Express",
-      "address":"Junction Square ",
-      "feature_food":[  
-         "ဝက္လယ္သမားဟင္း",
-         "သေဘၤာသီးေထာင္းေၾကာ္"
-      ],
-      "locations":[  
-         {  
-            "branch":"Junction Square ",
-            "lat":16.817197,
-            "lng":96.131208
-         }
-      ],
-      "newshop":false
-   },
-   {  
-      "name":"မင္းလမ္းမုန္႔တီ",
-      "address":"ေျမနီကုန္း / ပါရမီလမ္း ",
-      "feature_food":[  
-         " ေရခ်ိဳပုဇြန္မီးဖုတ္သုပ္ ",
-         "င႐ုပ္သီးငါးပိေဖ်ာ္"
-      ],
-      "locations":[  
-         {  
-            "branch":"Myay Ni Gone",
-            "lat":16.800337,
-            "lng":96.130111
-         },
-         {  
-            "branch":"Parami Road",
-            "lat":16.769302,
-            "lng":96.164891
-         }
-      ],
-      "newshop":false
-   },
-   {  
-      "name":"Manhattan Fish Market",
-      "address":"ကမ္းနားလမ္း",
-      "feature_food":[  
-         "Brownie"
-      ],
-      "locations":[  
-         {  
-            "branch":"ကမ္းနားလမ္း",
-            "lat":16.769302,
-            "lng":96.164891
-         }
-      ],
-      "newshop":true
-   },
-   {  
-      "name":"Coffee Circle",
-      "address":"ဓမၼေစတီလမ္း",
-      "feature_food":[  
-         "Green Curry Seafood Spaghetti"
-      ],
-      "locations":[  
-         {  
-            "branch":"ဓမၼေစတီလမ္း",
-            "lat":16.805848,
-            "lng":96.143771
-         }
-      ],
-      "newshop":false
-   },
-   {  
-      "name":"369",
-      "address":"အလံုသခင္ျမပန္းျခံ",
-      "feature_food":[  
-         "ျပည္လံုးခ်မ္းသာ",
-         "ဝက္နံ႐ိုးေၾကာ္"
-      ],
-      "locations":[  
-         {  
-            "branch":"အလံုသခင္ျမပန္းျ",
-            "lat":16.779732,
-            "lng":96.135757
-         }
-      ],
-      "newshop":false
-   },
-   {  
-      "name":"လမ္း၂၀ ဆန္ျပဳတ္",
-      "address":"လမ္း၂၀ ",
-      "feature_food":[  
-         "ဆန္ျပဳတ္",
-         "ဘဲေျခသုပ္",
-         "အသဲျမစ္သုပ္"
-      ],
-      "locations":[  
-         {  
-            "branch":"လမ္း၂၀ ",
-            "lat":16.774903,
-            "lng":96.149911
-         }
-      ],
-      "newshop":false
-   },
-   {  
-      "name":"Shake",
-      "address":"စံျပ႐ုပ္ရွင္႐ုံအေရွ႕ အေနာ္ရထာလမ္းမေပၚ",
-      "feature_food":[  
-         "လက္ဖက္ၾကက္ဥ",
-         "ေကာ္ရည္"
-      ],
-      "locations":[  
-         {  
-            "branch":"စံျပ႐ုပ္ရွင္႐ုံအေရွ႕ အေနာ္ရထာလမ္းမေပၚ",
-            "lat":16.777362,
-            "lng":96.144757
-         }
-      ],
-      "newshop":false
-   },
-   {  
-      "name":"Swenen",
-      "address":"ဒဂံုစင္တာ / Junction Maw Tin",
-      "feature_food":[  
-         "Strawberry Ice-cream"
-      ],
-      "locations":[  
-         {  
-            "branch":"ဒဂံုစင္တာ",
-            "lat":16.804431,
-            "lng":96.137409
-         },
-         {  
-            "branch":"Junction Maw Tin",
-            "lat":16.777684,
-            "lng":96.137409
-         }
-      ],
-      "newshop":true
-   }
 ]
