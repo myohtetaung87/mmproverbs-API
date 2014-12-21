@@ -1,7 +1,7 @@
 Myanmar Proverbs API
 ==============
 
-JSON content data files for  Myanmar Proverbs App using with Sinatra and Git. 
+Server data files for Myanmar Proverbs App
 
 
 Made with love in sunny Yangon :heart:
