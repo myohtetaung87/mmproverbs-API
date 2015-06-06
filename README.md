@@ -4,10 +4,8 @@ How its work
 - Dynamically fetch contents from github JSON file by using Sinatra framework.
 - Purposed to use in myanmar proverbs android application.
 
+  Made with love in sunny Yangon :heart:
   
-  
-
-
 Contributing
 ------------
 
@@ -22,4 +20,3 @@ License
 
     Copyright 2014 Myo Htet Aung 
     
-    Made with love in sunny Yangon :heart:
