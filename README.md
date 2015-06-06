@@ -1,8 +1,8 @@
-Myanmar Proverbs API
+How its work
 ==============
 
-Server data files for Myanmar Proverbs App
-
+- Dynamically fetch contents from github JSON file by using Sinatra framework.
+- Purposed to use in myanmar proverbs android application.
 
 Made with love in sunny Yangon :heart:
 
